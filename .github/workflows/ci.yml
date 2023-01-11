@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - "release/**"
+      - "fix-ci-install-dependencies"
   pull_request:
     branches:
       - main
